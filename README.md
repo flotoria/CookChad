@@ -1,6 +1,9 @@
 # CookChad
 A website that combines the collaboration of social media and the aid of AI to make cooking cheaper and easier.
 
+## Demo 
+[Demo](https://www.youtube.com/watch?v=LyOa2E7QyN8)
+
 ## Technologies 
 - React
 - NodeJS
